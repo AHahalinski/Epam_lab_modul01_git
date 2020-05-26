@@ -2,8 +2,8 @@
 22 line
 23 line
 24 line - step 4
-25 line
-26 line
+25 line  step 19
+26 line step 19
 27 line step 5
 28 line
 29 line step 5

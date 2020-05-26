@@ -5,6 +5,6 @@
 15 line step 8
 16 line
 17 line 
-18 line
+18 line step 20
 19 line step 8
-110 line
+110 line step 20
